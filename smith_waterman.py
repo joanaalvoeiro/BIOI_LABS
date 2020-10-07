@@ -48,15 +48,20 @@ def display_alignments(alignments):
 
 def traceback(m, seq1, seq2, cells):
     #given a matrix where smith waterman has ben run, determines the optimal alignments
-    inverted_aligns = []
     alignments = []
+    i = 0
     
-    def traceback_aux(cell, alignment):
-        parent = m[cell[0]][cell[1]]["parent"][0]#if there are multiple parent options, diagonal is prioritzed, then up, then left
+    def traceback_aux(cell, alignment, repeat):
+        parents = m[cell[0]][cell[1]]["parent"]
+        parent = parents[0]
+
+        if(len(parents) > 1):#in case the current cell has more than one parent, visit the first parent and remove it from the parent list
+            del m[cell[0]][cell[1]]["parent"][0]
+            repeat = True #signal that there are more parents that must be explored
 
         if(m[cell[0]][cell[1]]["score"] == 0):
             alignment.reverse()
-            return [alignment]
+            return [alignment], repeat
 
         elif(parent[0] == cell[0] - 1 and parent[1] == cell[1] - 1):
             alignment += [[seq1[cell[0] - 1], seq2[cell[1] - 1]]]
@@ -67,13 +72,17 @@ def traceback(m, seq1, seq2, cells):
         else:
             alignment += [["-", seq2[cell[1] - 1]]]
         
-        return traceback_aux(parent, alignment)
-  
-    for cell in cells:
-        alignments += traceback_aux(cell, [])
+        return traceback_aux(parent, alignment, repeat)
+
+    while(i < len(cells)):
+        new_align, repeat = traceback_aux(cells[i], [], False)
+        alignments += new_align
+        if(not repeat):#meaning all possible paths for the current cell have been explored
+            i += 1
     
     return alignments
         
+
 def smith_waterman():
     #runs smith waterman over a matrix characterized by user input parameters, and displays results
     A = input("Input first sequence: \n")
