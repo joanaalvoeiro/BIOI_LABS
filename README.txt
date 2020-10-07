@@ -12,11 +12,11 @@ This program runs the Smith Waterman algorithm for local sequence alignment, and
 
 To run:
 - Open the terminal in the current directory
-- Insert the command '$python3 smith_waterman.py'
+- Insert the command 'python3 smith_waterman.py'
 - You will then be prompted to insert the first sequence to align, please do so in all caps and press enter
 - You will then be prompted to insert the second sequence to align, please do so in all caps and press enter
 - You will then be prompted to insert the desired gap penalty, please insert a positive integer, and press enter 
-(if you wish for 4 points to be deducted for opening or continuing a gap, then the gap penalty you insert shoul be the number 4)
+(if you wish for 4 points to be deducted for opening or continuing a gap, then the gap penalty you insert should be the number 4)
 - The program will the output the score matrix, the best local alignment score, and all the possible optimal local alignments.
 
 An example of interaction with our program would be:
