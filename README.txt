@@ -9,6 +9,7 @@ Pedro Nunes 89525
 
 
 This program runs the Smith Waterman algorithm for local sequence alignment, and outputs all possible optimal local alignments.
+Our program is dependent on the biopython library, for the BLSOUM50 matrix. To install biopython, please use the command 'pip install biopython'
 
 To run:
 - Open the terminal in the current directory
