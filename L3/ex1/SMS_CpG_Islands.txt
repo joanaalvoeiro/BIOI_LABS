@@ -1,0 +1,882 @@
+CpG Islands results
+Results for 10009 residue sequence "Untitled" starting "GCTATCGTAG"
+
+CpG island detected in region 160 to 359 (Obs/Exp = 0.63 and %GC = 50.50) 
+
+CpG island detected in region 161 to 360 (Obs/Exp = 0.63 and %GC = 50.50) 
+
+CpG island detected in region 162 to 361 (Obs/Exp = 0.62 and %GC = 51.00) 
+
+CpG island detected in region 163 to 362 (Obs/Exp = 0.68 and %GC = 51.50) 
+
+CpG island detected in region 164 to 363 (Obs/Exp = 0.69 and %GC = 51.00) 
+
+CpG island detected in region 165 to 364 (Obs/Exp = 0.71 and %GC = 50.50) 
+
+CpG island detected in region 168 to 367 (Obs/Exp = 0.71 and %GC = 50.50) 
+
+CpG island detected in region 170 to 369 (Obs/Exp = 0.71 and %GC = 50.50) 
+
+CpG island detected in region 171 to 370 (Obs/Exp = 0.71 and %GC = 50.50) 
+
+CpG island detected in region 172 to 371 (Obs/Exp = 0.71 and %GC = 50.50) 
+
+CpG island detected in region 173 to 372 (Obs/Exp = 0.71 and %GC = 50.50) 
+
+CpG island detected in region 174 to 373 (Obs/Exp = 0.71 and %GC = 50.50) 
+
+CpG island detected in region 469 to 668 (Obs/Exp = 0.66 and %GC = 50.50) 
+
+CpG island detected in region 470 to 669 (Obs/Exp = 0.66 and %GC = 50.50) 
+
+CpG island detected in region 471 to 670 (Obs/Exp = 0.66 and %GC = 50.50) 
+
+CpG island detected in region 473 to 672 (Obs/Exp = 0.66 and %GC = 50.50) 
+
+CpG island detected in region 474 to 673 (Obs/Exp = 0.66 and %GC = 50.50) 
+
+CpG island detected in region 482 to 681 (Obs/Exp = 0.66 and %GC = 50.50) 
+
+CpG island detected in region 483 to 682 (Obs/Exp = 0.65 and %GC = 51.00) 
+
+CpG island detected in region 484 to 683 (Obs/Exp = 0.66 and %GC = 51.00) 
+
+CpG island detected in region 485 to 684 (Obs/Exp = 0.67 and %GC = 50.50) 
+
+CpG island detected in region 486 to 685 (Obs/Exp = 0.67 and %GC = 50.50) 
+
+CpG island detected in region 487 to 686 (Obs/Exp = 0.67 and %GC = 50.50) 
+
+CpG island detected in region 488 to 687 (Obs/Exp = 0.67 and %GC = 50.50) 
+
+CpG island detected in region 495 to 694 (Obs/Exp = 0.68 and %GC = 50.50) 
+
+CpG island detected in region 496 to 695 (Obs/Exp = 0.75 and %GC = 51.00) 
+
+CpG island detected in region 497 to 696 (Obs/Exp = 0.76 and %GC = 50.50) 
+
+CpG island detected in region 498 to 697 (Obs/Exp = 0.75 and %GC = 51.00) 
+
+CpG island detected in region 499 to 698 (Obs/Exp = 0.83 and %GC = 51.00) 
+
+CpG island detected in region 500 to 699 (Obs/Exp = 0.85 and %GC = 50.50) 
+
+CpG island detected in region 501 to 700 (Obs/Exp = 0.87 and %GC = 50.50) 
+
+CpG island detected in region 502 to 701 (Obs/Exp = 0.87 and %GC = 50.50) 
+
+CpG island detected in region 503 to 702 (Obs/Exp = 0.84 and %GC = 51.00) 
+
+CpG island detected in region 504 to 703 (Obs/Exp = 0.83 and %GC = 51.50) 
+
+CpG island detected in region 505 to 704 (Obs/Exp = 0.83 and %GC = 51.50) 
+
+CpG island detected in region 506 to 705 (Obs/Exp = 0.85 and %GC = 51.00) 
+
+CpG island detected in region 507 to 706 (Obs/Exp = 0.85 and %GC = 51.00) 
+
+CpG island detected in region 508 to 707 (Obs/Exp = 0.85 and %GC = 51.00) 
+
+CpG island detected in region 509 to 708 (Obs/Exp = 0.84 and %GC = 51.50) 
+
+CpG island detected in region 510 to 709 (Obs/Exp = 0.84 and %GC = 51.50) 
+
+CpG island detected in region 511 to 710 (Obs/Exp = 0.85 and %GC = 51.00) 
+
+CpG island detected in region 512 to 711 (Obs/Exp = 0.84 and %GC = 51.00) 
+
+CpG island detected in region 513 to 712 (Obs/Exp = 0.85 and %GC = 50.50) 
+
+CpG island detected in region 514 to 713 (Obs/Exp = 0.83 and %GC = 51.00) 
+
+CpG island detected in region 515 to 714 (Obs/Exp = 0.84 and %GC = 50.50) 
+
+CpG island detected in region 516 to 715 (Obs/Exp = 0.84 and %GC = 50.50) 
+
+CpG island detected in region 517 to 716 (Obs/Exp = 0.82 and %GC = 51.00) 
+
+CpG island detected in region 518 to 717 (Obs/Exp = 0.80 and %GC = 51.50) 
+
+CpG island detected in region 519 to 718 (Obs/Exp = 0.81 and %GC = 51.50) 
+
+CpG island detected in region 520 to 719 (Obs/Exp = 0.81 and %GC = 51.50) 
+
+CpG island detected in region 521 to 720 (Obs/Exp = 0.82 and %GC = 51.00) 
+
+CpG island detected in region 522 to 721 (Obs/Exp = 0.82 and %GC = 51.00) 
+
+CpG island detected in region 523 to 722 (Obs/Exp = 0.82 and %GC = 51.00) 
+
+CpG island detected in region 524 to 723 (Obs/Exp = 0.84 and %GC = 50.50) 
+
+CpG island detected in region 531 to 730 (Obs/Exp = 0.84 and %GC = 50.50) 
+
+CpG island detected in region 2315 to 2514 (Obs/Exp = 0.89 and %GC = 50.50) 
+
+CpG island detected in region 2316 to 2515 (Obs/Exp = 0.89 and %GC = 50.50) 
+
+CpG island detected in region 2317 to 2516 (Obs/Exp = 0.87 and %GC = 51.00) 
+
+CpG island detected in region 2318 to 2517 (Obs/Exp = 0.87 and %GC = 51.00) 
+
+CpG island detected in region 2319 to 2518 (Obs/Exp = 0.87 and %GC = 51.00) 
+
+CpG island detected in region 2320 to 2519 (Obs/Exp = 0.85 and %GC = 51.50) 
+
+CpG island detected in region 2321 to 2520 (Obs/Exp = 0.85 and %GC = 51.50) 
+
+CpG island detected in region 2322 to 2521 (Obs/Exp = 0.84 and %GC = 51.50) 
+
+CpG island detected in region 2323 to 2522 (Obs/Exp = 0.82 and %GC = 52.00) 
+
+CpG island detected in region 2324 to 2523 (Obs/Exp = 0.82 and %GC = 52.00) 
+
+CpG island detected in region 2325 to 2524 (Obs/Exp = 0.82 and %GC = 52.00) 
+
+CpG island detected in region 2326 to 2525 (Obs/Exp = 0.84 and %GC = 51.50) 
+
+CpG island detected in region 2327 to 2526 (Obs/Exp = 0.85 and %GC = 51.00) 
+
+CpG island detected in region 2328 to 2527 (Obs/Exp = 0.85 and %GC = 51.00) 
+
+CpG island detected in region 2329 to 2528 (Obs/Exp = 0.84 and %GC = 51.50) 
+
+CpG island detected in region 2330 to 2529 (Obs/Exp = 0.90 and %GC = 52.00) 
+
+CpG island detected in region 2331 to 2530 (Obs/Exp = 0.90 and %GC = 52.00) 
+
+CpG island detected in region 2332 to 2531 (Obs/Exp = 0.90 and %GC = 52.00) 
+
+CpG island detected in region 2333 to 2532 (Obs/Exp = 0.90 and %GC = 52.00) 
+
+CpG island detected in region 2334 to 2533 (Obs/Exp = 0.92 and %GC = 51.50) 
+
+CpG island detected in region 2335 to 2534 (Obs/Exp = 0.90 and %GC = 52.00) 
+
+CpG island detected in region 2336 to 2535 (Obs/Exp = 0.95 and %GC = 52.50) 
+
+CpG island detected in region 2337 to 2536 (Obs/Exp = 0.95 and %GC = 52.50) 
+
+CpG island detected in region 2338 to 2537 (Obs/Exp = 0.97 and %GC = 52.00) 
+
+CpG island detected in region 2339 to 2538 (Obs/Exp = 0.97 and %GC = 52.00) 
+
+CpG island detected in region 2340 to 2539 (Obs/Exp = 0.97 and %GC = 52.00) 
+
+CpG island detected in region 2341 to 2540 (Obs/Exp = 0.97 and %GC = 52.00) 
+
+CpG island detected in region 2342 to 2541 (Obs/Exp = 0.97 and %GC = 52.00) 
+
+CpG island detected in region 2343 to 2542 (Obs/Exp = 0.97 and %GC = 52.00) 
+
+CpG island detected in region 2344 to 2543 (Obs/Exp = 1.00 and %GC = 51.50) 
+
+CpG island detected in region 2345 to 2544 (Obs/Exp = 1.02 and %GC = 51.00) 
+
+CpG island detected in region 2346 to 2545 (Obs/Exp = 0.94 and %GC = 51.00) 
+
+CpG island detected in region 2347 to 2546 (Obs/Exp = 0.96 and %GC = 50.50) 
+
+CpG island detected in region 2348 to 2547 (Obs/Exp = 0.94 and %GC = 51.00) 
+
+CpG island detected in region 2349 to 2548 (Obs/Exp = 0.94 and %GC = 51.00) 
+
+CpG island detected in region 2350 to 2549 (Obs/Exp = 0.87 and %GC = 50.50) 
+
+CpG island detected in region 2366 to 2565 (Obs/Exp = 0.80 and %GC = 50.50) 
+
+CpG island detected in region 2367 to 2566 (Obs/Exp = 0.80 and %GC = 50.50) 
+
+CpG island detected in region 2368 to 2567 (Obs/Exp = 0.80 and %GC = 50.50) 
+
+CpG island detected in region 2369 to 2568 (Obs/Exp = 0.87 and %GC = 50.50) 
+
+CpG island detected in region 2370 to 2569 (Obs/Exp = 0.87 and %GC = 50.50) 
+
+CpG island detected in region 3651 to 3850 (Obs/Exp = 0.82 and %GC = 50.50) 
+
+CpG island detected in region 3652 to 3851 (Obs/Exp = 0.82 and %GC = 50.50) 
+
+CpG island detected in region 3653 to 3852 (Obs/Exp = 0.82 and %GC = 50.50) 
+
+CpG island detected in region 3654 to 3853 (Obs/Exp = 0.80 and %GC = 51.00) 
+
+CpG island detected in region 3655 to 3854 (Obs/Exp = 0.80 and %GC = 51.00) 
+
+CpG island detected in region 3656 to 3855 (Obs/Exp = 0.80 and %GC = 51.00) 
+
+CpG island detected in region 3657 to 3856 (Obs/Exp = 0.82 and %GC = 50.50) 
+
+CpG island detected in region 3658 to 3857 (Obs/Exp = 0.82 and %GC = 50.50) 
+
+CpG island detected in region 3659 to 3858 (Obs/Exp = 0.82 and %GC = 50.50) 
+
+CpG island detected in region 3660 to 3859 (Obs/Exp = 0.79 and %GC = 51.00) 
+
+CpG island detected in region 3661 to 3860 (Obs/Exp = 0.77 and %GC = 51.50) 
+
+CpG island detected in region 3662 to 3861 (Obs/Exp = 0.77 and %GC = 51.50) 
+
+CpG island detected in region 3663 to 3862 (Obs/Exp = 0.77 and %GC = 51.50) 
+
+CpG island detected in region 3664 to 3863 (Obs/Exp = 0.76 and %GC = 52.00) 
+
+CpG island detected in region 3665 to 3864 (Obs/Exp = 0.78 and %GC = 51.50) 
+
+CpG island detected in region 3666 to 3865 (Obs/Exp = 0.78 and %GC = 51.50) 
+
+CpG island detected in region 3667 to 3866 (Obs/Exp = 0.79 and %GC = 51.00) 
+
+CpG island detected in region 3668 to 3867 (Obs/Exp = 0.79 and %GC = 51.00) 
+
+CpG island detected in region 3669 to 3868 (Obs/Exp = 0.79 and %GC = 51.00) 
+
+CpG island detected in region 3670 to 3869 (Obs/Exp = 0.78 and %GC = 51.00) 
+
+CpG island detected in region 3671 to 3870 (Obs/Exp = 0.79 and %GC = 50.50) 
+
+CpG island detected in region 3672 to 3871 (Obs/Exp = 0.79 and %GC = 50.50) 
+
+CpG island detected in region 3674 to 3873 (Obs/Exp = 0.78 and %GC = 50.50) 
+
+CpG island detected in region 3678 to 3877 (Obs/Exp = 0.68 and %GC = 50.50) 
+
+CpG island detected in region 3679 to 3878 (Obs/Exp = 0.68 and %GC = 50.50) 
+
+CpG island detected in region 3685 to 3884 (Obs/Exp = 0.77 and %GC = 50.50) 
+
+CpG island detected in region 3686 to 3885 (Obs/Exp = 0.76 and %GC = 50.50) 
+
+CpG island detected in region 3687 to 3886 (Obs/Exp = 0.74 and %GC = 51.00) 
+
+CpG island detected in region 3688 to 3887 (Obs/Exp = 0.72 and %GC = 51.50) 
+
+CpG island detected in region 3689 to 3888 (Obs/Exp = 0.70 and %GC = 52.00) 
+
+CpG island detected in region 3690 to 3889 (Obs/Exp = 0.72 and %GC = 51.50) 
+
+CpG island detected in region 3691 to 3890 (Obs/Exp = 0.72 and %GC = 51.50) 
+
+CpG island detected in region 3692 to 3891 (Obs/Exp = 0.74 and %GC = 51.00) 
+
+CpG island detected in region 3693 to 3892 (Obs/Exp = 0.74 and %GC = 51.00) 
+
+CpG island detected in region 3694 to 3893 (Obs/Exp = 0.75 and %GC = 50.50) 
+
+CpG island detected in region 3701 to 3900 (Obs/Exp = 0.68 and %GC = 50.50) 
+
+CpG island detected in region 3705 to 3904 (Obs/Exp = 0.61 and %GC = 50.50) 
+
+CpG island detected in region 4745 to 4944 (Obs/Exp = 0.63 and %GC = 50.50) 
+
+CpG island detected in region 4747 to 4946 (Obs/Exp = 0.65 and %GC = 50.50) 
+
+CpG island detected in region 4748 to 4947 (Obs/Exp = 0.67 and %GC = 50.50) 
+
+CpG island detected in region 4749 to 4948 (Obs/Exp = 0.67 and %GC = 50.50) 
+
+CpG island detected in region 4750 to 4949 (Obs/Exp = 0.67 and %GC = 50.50) 
+
+CpG island detected in region 4751 to 4950 (Obs/Exp = 0.67 and %GC = 50.50) 
+
+CpG island detected in region 4752 to 4951 (Obs/Exp = 0.67 and %GC = 50.50) 
+
+CpG island detected in region 4753 to 4952 (Obs/Exp = 0.66 and %GC = 51.00) 
+
+CpG island detected in region 4754 to 4953 (Obs/Exp = 0.66 and %GC = 51.00) 
+
+CpG island detected in region 4755 to 4954 (Obs/Exp = 0.67 and %GC = 50.50) 
+
+CpG island detected in region 4766 to 4965 (Obs/Exp = 0.69 and %GC = 50.50) 
+
+CpG island detected in region 4769 to 4968 (Obs/Exp = 0.69 and %GC = 50.50) 
+
+CpG island detected in region 4770 to 4969 (Obs/Exp = 0.69 and %GC = 50.50) 
+
+CpG island detected in region 4771 to 4970 (Obs/Exp = 0.69 and %GC = 50.50) 
+
+CpG island detected in region 4772 to 4971 (Obs/Exp = 0.69 and %GC = 50.50) 
+
+CpG island detected in region 4773 to 4972 (Obs/Exp = 0.69 and %GC = 50.50) 
+
+CpG island detected in region 4774 to 4973 (Obs/Exp = 0.69 and %GC = 50.50) 
+
+CpG island detected in region 4775 to 4974 (Obs/Exp = 0.69 and %GC = 50.50) 
+
+CpG island detected in region 4776 to 4975 (Obs/Exp = 0.67 and %GC = 50.50) 
+
+CpG island detected in region 4777 to 4976 (Obs/Exp = 0.65 and %GC = 50.50) 
+
+CpG island detected in region 4785 to 4984 (Obs/Exp = 0.67 and %GC = 50.50) 
+
+CpG island detected in region 4786 to 4985 (Obs/Exp = 0.66 and %GC = 51.00) 
+
+CpG island detected in region 4787 to 4986 (Obs/Exp = 0.66 and %GC = 51.00) 
+
+CpG island detected in region 4788 to 4987 (Obs/Exp = 0.66 and %GC = 51.00) 
+
+CpG island detected in region 4789 to 4988 (Obs/Exp = 0.64 and %GC = 51.00) 
+
+CpG island detected in region 4790 to 4989 (Obs/Exp = 0.65 and %GC = 50.50) 
+
+CpG island detected in region 4791 to 4990 (Obs/Exp = 0.64 and %GC = 51.00) 
+
+CpG island detected in region 4792 to 4991 (Obs/Exp = 0.73 and %GC = 51.00) 
+
+CpG island detected in region 4793 to 4992 (Obs/Exp = 0.73 and %GC = 51.00) 
+
+CpG island detected in region 4794 to 4993 (Obs/Exp = 0.73 and %GC = 51.00) 
+
+CpG island detected in region 4795 to 4994 (Obs/Exp = 0.73 and %GC = 51.00) 
+
+CpG island detected in region 4796 to 4995 (Obs/Exp = 0.73 and %GC = 51.00) 
+
+CpG island detected in region 4797 to 4996 (Obs/Exp = 0.72 and %GC = 51.50) 
+
+CpG island detected in region 4798 to 4997 (Obs/Exp = 0.72 and %GC = 51.50) 
+
+CpG island detected in region 4799 to 4998 (Obs/Exp = 0.75 and %GC = 51.00) 
+
+CpG island detected in region 4800 to 4999 (Obs/Exp = 0.78 and %GC = 50.50) 
+
+CpG island detected in region 4801 to 5000 (Obs/Exp = 0.77 and %GC = 51.00) 
+
+CpG island detected in region 4802 to 5001 (Obs/Exp = 0.81 and %GC = 50.50) 
+
+CpG island detected in region 4804 to 5003 (Obs/Exp = 0.83 and %GC = 50.50) 
+
+CpG island detected in region 4806 to 5005 (Obs/Exp = 0.83 and %GC = 50.50) 
+
+CpG island detected in region 4853 to 5052 (Obs/Exp = 1.07 and %GC = 50.50) 
+
+CpG island detected in region 4854 to 5053 (Obs/Exp = 1.06 and %GC = 51.00) 
+
+CpG island detected in region 4855 to 5054 (Obs/Exp = 1.06 and %GC = 51.00) 
+
+CpG island detected in region 4856 to 5055 (Obs/Exp = 1.06 and %GC = 51.00) 
+
+CpG island detected in region 4857 to 5056 (Obs/Exp = 1.06 and %GC = 51.00) 
+
+CpG island detected in region 4858 to 5057 (Obs/Exp = 1.05 and %GC = 51.50) 
+
+CpG island detected in region 4859 to 5058 (Obs/Exp = 1.05 and %GC = 51.50) 
+
+CpG island detected in region 4860 to 5059 (Obs/Exp = 1.03 and %GC = 52.00) 
+
+CpG island detected in region 4861 to 5060 (Obs/Exp = 1.03 and %GC = 52.00) 
+
+CpG island detected in region 4862 to 5061 (Obs/Exp = 1.05 and %GC = 51.50) 
+
+CpG island detected in region 4863 to 5062 (Obs/Exp = 1.05 and %GC = 51.50) 
+
+CpG island detected in region 4864 to 5063 (Obs/Exp = 1.03 and %GC = 52.00) 
+
+CpG island detected in region 4865 to 5064 (Obs/Exp = 1.09 and %GC = 51.50) 
+
+CpG island detected in region 4866 to 5065 (Obs/Exp = 1.08 and %GC = 52.00) 
+
+CpG island detected in region 4867 to 5066 (Obs/Exp = 1.08 and %GC = 52.00) 
+
+CpG island detected in region 4868 to 5067 (Obs/Exp = 1.08 and %GC = 52.00) 
+
+CpG island detected in region 4869 to 5068 (Obs/Exp = 1.15 and %GC = 52.50) 
+
+CpG island detected in region 4870 to 5069 (Obs/Exp = 1.14 and %GC = 53.00) 
+
+CpG island detected in region 4871 to 5070 (Obs/Exp = 1.20 and %GC = 52.50) 
+
+CpG island detected in region 4872 to 5071 (Obs/Exp = 1.20 and %GC = 52.50) 
+
+CpG island detected in region 4873 to 5072 (Obs/Exp = 1.22 and %GC = 52.00) 
+
+CpG island detected in region 4874 to 5073 (Obs/Exp = 1.23 and %GC = 51.50) 
+
+CpG island detected in region 4875 to 5074 (Obs/Exp = 1.23 and %GC = 51.50) 
+
+CpG island detected in region 4876 to 5075 (Obs/Exp = 1.23 and %GC = 51.50) 
+
+CpG island detected in region 4877 to 5076 (Obs/Exp = 1.25 and %GC = 51.00) 
+
+CpG island detected in region 4878 to 5077 (Obs/Exp = 1.19 and %GC = 51.00) 
+
+CpG island detected in region 4879 to 5078 (Obs/Exp = 1.06 and %GC = 51.00) 
+
+CpG island detected in region 4880 to 5079 (Obs/Exp = 1.12 and %GC = 50.50) 
+
+CpG island detected in region 4881 to 5080 (Obs/Exp = 1.12 and %GC = 50.50) 
+
+CpG island detected in region 4883 to 5082 (Obs/Exp = 1.12 and %GC = 50.50) 
+
+CpG island detected in region 4884 to 5083 (Obs/Exp = 1.12 and %GC = 50.50) 
+
+CpG island detected in region 4885 to 5084 (Obs/Exp = 1.12 and %GC = 50.50) 
+
+CpG island detected in region 4886 to 5085 (Obs/Exp = 1.12 and %GC = 50.50) 
+
+CpG island detected in region 4887 to 5086 (Obs/Exp = 1.12 and %GC = 50.50) 
+
+CpG island detected in region 4888 to 5087 (Obs/Exp = 1.11 and %GC = 51.00) 
+
+CpG island detected in region 4889 to 5088 (Obs/Exp = 1.18 and %GC = 50.50) 
+
+CpG island detected in region 4926 to 5125 (Obs/Exp = 0.77 and %GC = 50.50) 
+
+CpG island detected in region 4934 to 5133 (Obs/Exp = 0.64 and %GC = 50.50) 
+
+CpG island detected in region 4935 to 5134 (Obs/Exp = 0.64 and %GC = 50.50) 
+
+CpG island detected in region 4936 to 5135 (Obs/Exp = 0.64 and %GC = 50.50) 
+
+CpG island detected in region 4937 to 5136 (Obs/Exp = 0.64 and %GC = 50.50) 
+
+CpG island detected in region 4938 to 5137 (Obs/Exp = 0.63 and %GC = 51.00) 
+
+CpG island detected in region 7461 to 7660 (Obs/Exp = 0.74 and %GC = 50.50) 
+
+CpG island detected in region 7482 to 7681 (Obs/Exp = 0.73 and %GC = 50.50) 
+
+CpG island detected in region 7483 to 7682 (Obs/Exp = 0.73 and %GC = 50.50) 
+
+CpG island detected in region 7484 to 7683 (Obs/Exp = 0.73 and %GC = 50.50) 
+
+CpG island detected in region 7485 to 7684 (Obs/Exp = 0.73 and %GC = 50.50) 
+
+CpG island detected in region 7486 to 7685 (Obs/Exp = 0.72 and %GC = 51.00) 
+
+CpG island detected in region 7487 to 7686 (Obs/Exp = 0.71 and %GC = 51.50) 
+
+CpG island detected in region 7488 to 7687 (Obs/Exp = 0.77 and %GC = 52.00) 
+
+CpG island detected in region 7489 to 7688 (Obs/Exp = 0.76 and %GC = 52.50) 
+
+CpG island detected in region 7490 to 7689 (Obs/Exp = 0.76 and %GC = 52.50) 
+
+CpG island detected in region 7491 to 7690 (Obs/Exp = 0.77 and %GC = 52.50) 
+
+CpG island detected in region 7492 to 7691 (Obs/Exp = 0.77 and %GC = 52.50) 
+
+CpG island detected in region 7493 to 7692 (Obs/Exp = 0.78 and %GC = 52.00) 
+
+CpG island detected in region 7494 to 7693 (Obs/Exp = 0.76 and %GC = 52.50) 
+
+CpG island detected in region 7495 to 7694 (Obs/Exp = 0.76 and %GC = 52.50) 
+
+CpG island detected in region 7496 to 7695 (Obs/Exp = 0.77 and %GC = 52.00) 
+
+CpG island detected in region 7497 to 7696 (Obs/Exp = 0.75 and %GC = 52.50) 
+
+CpG island detected in region 7498 to 7697 (Obs/Exp = 0.75 and %GC = 52.50) 
+
+CpG island detected in region 7499 to 7698 (Obs/Exp = 0.73 and %GC = 53.00) 
+
+CpG island detected in region 7500 to 7699 (Obs/Exp = 0.75 and %GC = 52.50) 
+
+CpG island detected in region 7501 to 7700 (Obs/Exp = 0.75 and %GC = 52.50) 
+
+CpG island detected in region 7502 to 7701 (Obs/Exp = 0.75 and %GC = 52.50) 
+
+CpG island detected in region 7503 to 7702 (Obs/Exp = 0.75 and %GC = 52.50) 
+
+CpG island detected in region 7504 to 7703 (Obs/Exp = 0.76 and %GC = 52.00) 
+
+CpG island detected in region 7505 to 7704 (Obs/Exp = 0.76 and %GC = 52.00) 
+
+CpG island detected in region 7506 to 7705 (Obs/Exp = 0.76 and %GC = 52.00) 
+
+CpG island detected in region 7507 to 7706 (Obs/Exp = 0.76 and %GC = 52.00) 
+
+CpG island detected in region 7508 to 7707 (Obs/Exp = 0.76 and %GC = 52.00) 
+
+CpG island detected in region 7509 to 7708 (Obs/Exp = 0.76 and %GC = 52.00) 
+
+CpG island detected in region 7510 to 7709 (Obs/Exp = 0.76 and %GC = 52.00) 
+
+CpG island detected in region 7511 to 7710 (Obs/Exp = 0.76 and %GC = 52.00) 
+
+CpG island detected in region 7512 to 7711 (Obs/Exp = 0.75 and %GC = 52.50) 
+
+CpG island detected in region 7513 to 7712 (Obs/Exp = 0.75 and %GC = 52.50) 
+
+CpG island detected in region 7514 to 7713 (Obs/Exp = 0.76 and %GC = 52.00) 
+
+CpG island detected in region 7515 to 7714 (Obs/Exp = 0.75 and %GC = 52.50) 
+
+CpG island detected in region 7516 to 7715 (Obs/Exp = 0.74 and %GC = 53.00) 
+
+CpG island detected in region 7517 to 7716 (Obs/Exp = 0.73 and %GC = 53.50) 
+
+CpG island detected in region 7518 to 7717 (Obs/Exp = 0.78 and %GC = 54.00) 
+
+CpG island detected in region 7519 to 7718 (Obs/Exp = 0.78 and %GC = 54.00) 
+
+CpG island detected in region 7520 to 7719 (Obs/Exp = 0.78 and %GC = 54.00) 
+
+CpG island detected in region 7521 to 7720 (Obs/Exp = 0.71 and %GC = 54.00) 
+
+CpG island detected in region 7522 to 7721 (Obs/Exp = 0.78 and %GC = 54.00) 
+
+CpG island detected in region 7523 to 7722 (Obs/Exp = 0.78 and %GC = 54.00) 
+
+CpG island detected in region 7524 to 7723 (Obs/Exp = 0.77 and %GC = 54.50) 
+
+CpG island detected in region 7525 to 7724 (Obs/Exp = 0.78 and %GC = 54.00) 
+
+CpG island detected in region 7526 to 7725 (Obs/Exp = 0.78 and %GC = 54.00) 
+
+CpG island detected in region 7527 to 7726 (Obs/Exp = 0.78 and %GC = 54.00) 
+
+CpG island detected in region 7528 to 7727 (Obs/Exp = 0.78 and %GC = 54.00) 
+
+CpG island detected in region 7529 to 7728 (Obs/Exp = 0.80 and %GC = 53.50) 
+
+CpG island detected in region 7530 to 7729 (Obs/Exp = 0.79 and %GC = 54.00) 
+
+CpG island detected in region 7531 to 7730 (Obs/Exp = 0.79 and %GC = 54.00) 
+
+CpG island detected in region 7532 to 7731 (Obs/Exp = 0.81 and %GC = 53.50) 
+
+CpG island detected in region 7533 to 7732 (Obs/Exp = 0.81 and %GC = 53.50) 
+
+CpG island detected in region 7534 to 7733 (Obs/Exp = 0.81 and %GC = 53.50) 
+
+CpG island detected in region 7535 to 7734 (Obs/Exp = 0.82 and %GC = 53.00) 
+
+CpG island detected in region 7536 to 7735 (Obs/Exp = 0.80 and %GC = 53.50) 
+
+CpG island detected in region 7537 to 7736 (Obs/Exp = 0.79 and %GC = 54.00) 
+
+CpG island detected in region 7538 to 7737 (Obs/Exp = 0.81 and %GC = 53.50) 
+
+CpG island detected in region 7539 to 7738 (Obs/Exp = 0.83 and %GC = 53.00) 
+
+CpG island detected in region 7540 to 7739 (Obs/Exp = 0.83 and %GC = 53.00) 
+
+CpG island detected in region 7541 to 7740 (Obs/Exp = 0.81 and %GC = 53.50) 
+
+CpG island detected in region 7542 to 7741 (Obs/Exp = 0.81 and %GC = 53.50) 
+
+CpG island detected in region 7543 to 7742 (Obs/Exp = 0.81 and %GC = 53.50) 
+
+CpG island detected in region 7544 to 7743 (Obs/Exp = 0.83 and %GC = 53.00) 
+
+CpG island detected in region 7545 to 7744 (Obs/Exp = 0.83 and %GC = 53.00) 
+
+CpG island detected in region 7546 to 7745 (Obs/Exp = 0.83 and %GC = 53.00) 
+
+CpG island detected in region 7547 to 7746 (Obs/Exp = 0.83 and %GC = 53.00) 
+
+CpG island detected in region 7548 to 7747 (Obs/Exp = 0.85 and %GC = 52.50) 
+
+CpG island detected in region 7549 to 7748 (Obs/Exp = 0.83 and %GC = 53.00) 
+
+CpG island detected in region 7550 to 7749 (Obs/Exp = 0.83 and %GC = 53.00) 
+
+CpG island detected in region 7551 to 7750 (Obs/Exp = 0.82 and %GC = 53.50) 
+
+CpG island detected in region 7552 to 7751 (Obs/Exp = 0.89 and %GC = 53.50) 
+
+CpG island detected in region 7553 to 7752 (Obs/Exp = 0.87 and %GC = 54.00) 
+
+CpG island detected in region 7554 to 7753 (Obs/Exp = 0.86 and %GC = 54.50) 
+
+CpG island detected in region 7555 to 7754 (Obs/Exp = 0.85 and %GC = 55.00) 
+
+CpG island detected in region 7556 to 7755 (Obs/Exp = 0.87 and %GC = 54.50) 
+
+CpG island detected in region 7557 to 7756 (Obs/Exp = 0.85 and %GC = 55.00) 
+
+CpG island detected in region 7558 to 7757 (Obs/Exp = 0.84 and %GC = 55.00) 
+
+CpG island detected in region 7559 to 7758 (Obs/Exp = 0.85 and %GC = 54.50) 
+
+CpG island detected in region 7560 to 7759 (Obs/Exp = 0.85 and %GC = 54.50) 
+
+CpG island detected in region 7561 to 7760 (Obs/Exp = 0.86 and %GC = 54.00) 
+
+CpG island detected in region 7562 to 7761 (Obs/Exp = 0.86 and %GC = 54.00) 
+
+CpG island detected in region 7563 to 7762 (Obs/Exp = 0.87 and %GC = 53.50) 
+
+CpG island detected in region 7564 to 7763 (Obs/Exp = 0.87 and %GC = 53.50) 
+
+CpG island detected in region 7565 to 7764 (Obs/Exp = 0.87 and %GC = 53.50) 
+
+CpG island detected in region 7566 to 7765 (Obs/Exp = 0.87 and %GC = 53.50) 
+
+CpG island detected in region 7567 to 7766 (Obs/Exp = 0.87 and %GC = 53.50) 
+
+CpG island detected in region 7568 to 7767 (Obs/Exp = 0.88 and %GC = 53.50) 
+
+CpG island detected in region 7569 to 7768 (Obs/Exp = 0.93 and %GC = 54.00) 
+
+CpG island detected in region 7570 to 7769 (Obs/Exp = 0.92 and %GC = 54.00) 
+
+CpG island detected in region 7571 to 7770 (Obs/Exp = 0.92 and %GC = 54.00) 
+
+CpG island detected in region 7572 to 7771 (Obs/Exp = 0.90 and %GC = 54.50) 
+
+CpG island detected in region 7573 to 7772 (Obs/Exp = 0.92 and %GC = 54.00) 
+
+CpG island detected in region 7574 to 7773 (Obs/Exp = 0.94 and %GC = 53.50) 
+
+CpG island detected in region 7575 to 7774 (Obs/Exp = 0.96 and %GC = 53.00) 
+
+CpG island detected in region 7576 to 7775 (Obs/Exp = 0.95 and %GC = 53.00) 
+
+CpG island detected in region 7577 to 7776 (Obs/Exp = 0.95 and %GC = 53.00) 
+
+CpG island detected in region 7578 to 7777 (Obs/Exp = 0.97 and %GC = 52.50) 
+
+CpG island detected in region 7579 to 7778 (Obs/Exp = 0.95 and %GC = 53.00) 
+
+CpG island detected in region 7580 to 7779 (Obs/Exp = 0.98 and %GC = 52.50) 
+
+CpG island detected in region 7581 to 7780 (Obs/Exp = 0.98 and %GC = 52.50) 
+
+CpG island detected in region 7582 to 7781 (Obs/Exp = 0.99 and %GC = 52.00) 
+
+CpG island detected in region 7583 to 7782 (Obs/Exp = 1.01 and %GC = 51.50) 
+
+CpG island detected in region 7584 to 7783 (Obs/Exp = 1.01 and %GC = 51.50) 
+
+CpG island detected in region 7585 to 7784 (Obs/Exp = 1.01 and %GC = 51.50) 
+
+CpG island detected in region 7586 to 7785 (Obs/Exp = 0.99 and %GC = 52.00) 
+
+CpG island detected in region 7587 to 7786 (Obs/Exp = 0.99 and %GC = 52.00) 
+
+CpG island detected in region 7588 to 7787 (Obs/Exp = 0.98 and %GC = 52.00) 
+
+CpG island detected in region 7589 to 7788 (Obs/Exp = 0.91 and %GC = 52.00) 
+
+CpG island detected in region 7590 to 7789 (Obs/Exp = 0.98 and %GC = 52.00) 
+
+CpG island detected in region 7591 to 7790 (Obs/Exp = 0.96 and %GC = 52.50) 
+
+CpG island detected in region 7592 to 7791 (Obs/Exp = 0.96 and %GC = 52.50) 
+
+CpG island detected in region 7593 to 7792 (Obs/Exp = 1.01 and %GC = 53.00) 
+
+CpG island detected in region 7594 to 7793 (Obs/Exp = 1.01 and %GC = 53.00) 
+
+CpG island detected in region 7595 to 7794 (Obs/Exp = 1.03 and %GC = 52.50) 
+
+CpG island detected in region 7596 to 7795 (Obs/Exp = 1.03 and %GC = 52.50) 
+
+CpG island detected in region 7597 to 7796 (Obs/Exp = 1.03 and %GC = 52.50) 
+
+CpG island detected in region 7598 to 7797 (Obs/Exp = 1.04 and %GC = 52.50) 
+
+CpG island detected in region 7599 to 7798 (Obs/Exp = 1.02 and %GC = 53.00) 
+
+CpG island detected in region 7600 to 7799 (Obs/Exp = 1.02 and %GC = 53.00) 
+
+CpG island detected in region 7601 to 7800 (Obs/Exp = 1.04 and %GC = 52.50) 
+
+CpG island detected in region 7602 to 7801 (Obs/Exp = 1.06 and %GC = 52.00) 
+
+CpG island detected in region 7603 to 7802 (Obs/Exp = 1.04 and %GC = 52.50) 
+
+CpG island detected in region 7604 to 7803 (Obs/Exp = 1.04 and %GC = 52.50) 
+
+CpG island detected in region 7605 to 7804 (Obs/Exp = 1.04 and %GC = 52.50) 
+
+CpG island detected in region 7606 to 7805 (Obs/Exp = 1.06 and %GC = 52.00) 
+
+CpG island detected in region 7607 to 7806 (Obs/Exp = 1.08 and %GC = 51.50) 
+
+CpG island detected in region 7608 to 7807 (Obs/Exp = 1.08 and %GC = 51.50) 
+
+CpG island detected in region 7609 to 7808 (Obs/Exp = 1.08 and %GC = 51.50) 
+
+CpG island detected in region 7610 to 7809 (Obs/Exp = 1.02 and %GC = 51.00) 
+
+CpG island detected in region 7611 to 7810 (Obs/Exp = 1.02 and %GC = 51.00) 
+
+CpG island detected in region 7612 to 7811 (Obs/Exp = 1.01 and %GC = 51.50) 
+
+CpG island detected in region 7613 to 7812 (Obs/Exp = 1.01 and %GC = 51.50) 
+
+CpG island detected in region 7614 to 7813 (Obs/Exp = 1.01 and %GC = 51.50) 
+
+CpG island detected in region 7615 to 7814 (Obs/Exp = 1.03 and %GC = 51.00) 
+
+CpG island detected in region 7616 to 7815 (Obs/Exp = 1.04 and %GC = 51.00) 
+
+CpG island detected in region 7617 to 7816 (Obs/Exp = 1.09 and %GC = 51.50) 
+
+CpG island detected in region 7618 to 7817 (Obs/Exp = 1.09 and %GC = 51.50) 
+
+CpG island detected in region 7619 to 7818 (Obs/Exp = 1.12 and %GC = 51.00) 
+
+CpG island detected in region 7620 to 7819 (Obs/Exp = 1.09 and %GC = 51.50) 
+
+CpG island detected in region 7621 to 7820 (Obs/Exp = 1.09 and %GC = 51.50) 
+
+CpG island detected in region 7622 to 7821 (Obs/Exp = 1.11 and %GC = 51.00) 
+
+CpG island detected in region 7623 to 7822 (Obs/Exp = 1.10 and %GC = 51.00) 
+
+CpG island detected in region 7624 to 7823 (Obs/Exp = 1.12 and %GC = 50.50) 
+
+CpG island detected in region 7625 to 7824 (Obs/Exp = 1.12 and %GC = 50.50) 
+
+CpG island detected in region 7626 to 7825 (Obs/Exp = 1.10 and %GC = 51.00) 
+
+CpG island detected in region 7627 to 7826 (Obs/Exp = 1.02 and %GC = 51.00) 
+
+CpG island detected in region 7628 to 7827 (Obs/Exp = 1.02 and %GC = 51.00) 
+
+CpG island detected in region 7629 to 7828 (Obs/Exp = 1.08 and %GC = 51.50) 
+
+CpG island detected in region 7630 to 7829 (Obs/Exp = 1.10 and %GC = 51.00) 
+
+CpG island detected in region 7631 to 7830 (Obs/Exp = 1.09 and %GC = 51.50) 
+
+CpG island detected in region 7632 to 7831 (Obs/Exp = 1.09 and %GC = 51.50) 
+
+CpG island detected in region 7633 to 7832 (Obs/Exp = 1.09 and %GC = 51.50) 
+
+CpG island detected in region 7634 to 7833 (Obs/Exp = 1.10 and %GC = 51.00) 
+
+CpG island detected in region 7635 to 7834 (Obs/Exp = 1.12 and %GC = 50.50) 
+
+CpG island detected in region 7636 to 7835 (Obs/Exp = 1.12 and %GC = 50.50) 
+
+CpG island detected in region 7638 to 7837 (Obs/Exp = 1.12 and %GC = 50.50) 
+
+CpG island detected in region 8403 to 8602 (Obs/Exp = 0.68 and %GC = 50.50) 
+
+CpG island detected in region 8414 to 8613 (Obs/Exp = 0.67 and %GC = 50.50) 
+
+CpG island detected in region 8416 to 8615 (Obs/Exp = 0.66 and %GC = 50.50) 
+
+CpG island detected in region 8417 to 8616 (Obs/Exp = 0.64 and %GC = 51.00) 
+
+CpG island detected in region 8418 to 8617 (Obs/Exp = 0.63 and %GC = 51.50) 
+
+CpG island detected in region 8419 to 8618 (Obs/Exp = 0.62 and %GC = 52.00) 
+
+CpG island detected in region 8420 to 8619 (Obs/Exp = 0.63 and %GC = 51.50) 
+
+CpG island detected in region 8421 to 8620 (Obs/Exp = 0.62 and %GC = 52.00) 
+
+CpG island detected in region 8422 to 8621 (Obs/Exp = 0.61 and %GC = 52.50) 
+
+CpG island detected in region 8423 to 8622 (Obs/Exp = 0.61 and %GC = 52.50) 
+
+CpG island detected in region 8424 to 8623 (Obs/Exp = 0.63 and %GC = 52.00) 
+
+CpG island detected in region 8425 to 8624 (Obs/Exp = 0.64 and %GC = 52.00) 
+
+CpG island detected in region 8426 to 8625 (Obs/Exp = 0.64 and %GC = 52.00) 
+
+CpG island detected in region 8427 to 8626 (Obs/Exp = 0.65 and %GC = 51.50) 
+
+CpG island detected in region 8428 to 8627 (Obs/Exp = 0.65 and %GC = 51.50) 
+
+CpG island detected in region 8457 to 8656 (Obs/Exp = 0.68 and %GC = 50.50) 
+
+CpG island detected in region 8458 to 8657 (Obs/Exp = 0.68 and %GC = 51.00) 
+
+CpG island detected in region 8459 to 8658 (Obs/Exp = 0.68 and %GC = 51.00) 
+
+CpG island detected in region 8460 to 8659 (Obs/Exp = 0.67 and %GC = 51.50) 
+
+CpG island detected in region 8461 to 8660 (Obs/Exp = 0.67 and %GC = 51.50) 
+
+CpG island detected in region 8462 to 8661 (Obs/Exp = 0.67 and %GC = 51.50) 
+
+CpG island detected in region 8463 to 8662 (Obs/Exp = 0.69 and %GC = 51.00) 
+
+CpG island detected in region 8464 to 8663 (Obs/Exp = 0.71 and %GC = 51.00) 
+
+CpG island detected in region 8465 to 8664 (Obs/Exp = 0.73 and %GC = 51.00) 
+
+CpG island detected in region 8466 to 8665 (Obs/Exp = 0.73 and %GC = 51.00) 
+
+CpG island detected in region 8467 to 8666 (Obs/Exp = 0.72 and %GC = 51.50) 
+
+CpG island detected in region 8468 to 8667 (Obs/Exp = 0.72 and %GC = 51.50) 
+
+CpG island detected in region 8469 to 8668 (Obs/Exp = 0.62 and %GC = 51.00) 
+
+CpG island detected in region 8470 to 8669 (Obs/Exp = 0.65 and %GC = 50.50) 
+
+CpG island detected in region 8471 to 8670 (Obs/Exp = 0.65 and %GC = 50.50) 
+
+CpG island detected in region 8472 to 8671 (Obs/Exp = 0.62 and %GC = 51.00) 
+
+CpG island detected in region 8473 to 8672 (Obs/Exp = 0.62 and %GC = 51.50) 
+
+CpG island detected in region 8474 to 8673 (Obs/Exp = 0.62 and %GC = 51.50) 
+
+CpG island detected in region 8475 to 8674 (Obs/Exp = 0.62 and %GC = 51.00) 
+
+CpG island detected in region 8476 to 8675 (Obs/Exp = 0.62 and %GC = 51.00) 
+
+CpG island detected in region 8477 to 8676 (Obs/Exp = 0.62 and %GC = 51.50) 
+
+CpG island detected in region 8478 to 8677 (Obs/Exp = 0.62 and %GC = 51.00) 
+
+CpG island detected in region 8479 to 8678 (Obs/Exp = 0.61 and %GC = 51.00) 
+
+CpG island detected in region 8480 to 8679 (Obs/Exp = 0.61 and %GC = 51.00) 
+
+CpG island detected in region 8493 to 8692 (Obs/Exp = 0.61 and %GC = 51.00) 
+
+CpG island detected in region 8494 to 8693 (Obs/Exp = 0.61 and %GC = 51.00) 
+
+CpG island detected in region 8495 to 8694 (Obs/Exp = 0.61 and %GC = 51.00) 
+
+CpG island detected in region 8496 to 8695 (Obs/Exp = 0.61 and %GC = 51.00) 
+
+CpG island detected in region 8497 to 8696 (Obs/Exp = 0.61 and %GC = 51.00) 
+
+CpG island detected in region 8498 to 8697 (Obs/Exp = 0.61 and %GC = 51.00) 
+
+CpG island detected in region 8499 to 8698 (Obs/Exp = 0.61 and %GC = 51.00) 
+
+CpG island detected in region 8501 to 8700 (Obs/Exp = 0.62 and %GC = 51.00) 
+
+CpG island detected in region 8502 to 8701 (Obs/Exp = 0.62 and %GC = 51.00) 
+
+CpG island detected in region 8503 to 8702 (Obs/Exp = 0.62 and %GC = 51.50) 
+
+CpG island detected in region 8504 to 8703 (Obs/Exp = 0.62 and %GC = 51.00) 
+
+CpG island detected in region 8505 to 8704 (Obs/Exp = 0.63 and %GC = 50.50) 
+
+CpG island detected in region 8509 to 8708 (Obs/Exp = 0.65 and %GC = 50.50) 
+
+CpG island detected in region 8510 to 8709 (Obs/Exp = 0.65 and %GC = 50.50) 
+
+CpG island detected in region 8511 to 8710 (Obs/Exp = 0.67 and %GC = 50.50) 
+
+CpG island detected in region 8512 to 8711 (Obs/Exp = 0.69 and %GC = 50.50) 
+
+CpG island detected in region 8513 to 8712 (Obs/Exp = 0.69 and %GC = 50.50) 
+
+CpG island detected in region 8514 to 8713 (Obs/Exp = 0.68 and %GC = 51.00) 
+
+CpG island detected in region 8515 to 8714 (Obs/Exp = 0.69 and %GC = 50.50) 
+
+CpG island detected in region 8516 to 8715 (Obs/Exp = 0.69 and %GC = 50.50) 
+
+CpG island detected in region 8517 to 8716 (Obs/Exp = 0.69 and %GC = 50.50) 
+
+CpG island detected in region 8566 to 8765 (Obs/Exp = 0.70 and %GC = 50.50) 
+
+CpG island detected in region 8569 to 8768 (Obs/Exp = 0.70 and %GC = 50.50) 
+
+CpG island detected in region 8668 to 8867 (Obs/Exp = 0.75 and %GC = 50.50) 
+
+CpG island detected in region 8669 to 8868 (Obs/Exp = 0.74 and %GC = 51.00) 
+
+CpG island detected in region 8670 to 8869 (Obs/Exp = 0.74 and %GC = 51.00) 
+
+CpG island detected in region 8671 to 8870 (Obs/Exp = 0.74 and %GC = 51.00) 
+
+CpG island detected in region 8672 to 8871 (Obs/Exp = 0.74 and %GC = 51.00) 
+
+CpG island detected in region 8673 to 8872 (Obs/Exp = 0.75 and %GC = 50.50) 
