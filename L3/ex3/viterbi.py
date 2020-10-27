@@ -7,18 +7,20 @@ def viterbi():
                 3:{"a": 0.4, "t": 0.3, "c": 0.3, "g": 0}}
 
     #S = input("Input the sequence: \n")
-    S="CATGCGGGTTATAAC"
+    S="ATCG" #supposed to return 1122
     S = S.lower()
 
     graph = [[] for _ in range(len(S))]
 
-    graph[0].append([[[0, emission[1][S[0]]]], [[0, emission[2][S[0]]]], [[0, emission[3][S[0]]]]])
+    graph[0].append([[[0, emission[1][S[0]]/3]], [[0, emission[2][S[0]]/3]], [[0, emission[3][S[0]]/3]]])
 
     for i in range(1, len(S)):
         for state_init in states:
             curr_node = []
             for state_final in states:
-                weight =  emission[state_final][S[i]] * trans[state_init - 1][state_final - 1]
+                weight =  emission[state_init][S[i]] * trans[state_init - 1][state_final - 1]
+                print("emission prob: {}, transition prob: {}".format(emission[state_init][S[i]], trans[state_init - 1][state_final - 1]))
+                
                 curr_node.append([state_final, weight])
             graph[i].append(curr_node)  
     
@@ -30,15 +32,16 @@ def viterbi():
         weight_graph.append(node)
     
     for i in range(len(states)):
-        weight_graph[0][i] = [0, emission[i+1][S[0]]]
+        weight_graph[0][i] = [0, emission[i+1][S[0]]/3]
     
 
     for i in range(1, len(S)):
         for state in states:
             edges = [e for e in graph[i][state - 1]]
+            print(edges)
             weights = []
             for e in range(len(edges)):
-                weights.append(edges[e][1])
+                weights.append(weight_graph[i - 1][e][1] * edges[e][1])
             max_w = max(weights)
             parent = weights.index(max_w) + 1
             weight_graph[i][state - 1] = [parent, max_w]
@@ -56,13 +59,16 @@ def viterbi():
     seq = [max_state]
 
     curr_state = max_state
-    while (i > 1):
-        parent = weight_graph[i][curr_state][0]
+    while (i > 0):
+        parent = weight_graph[i][curr_state - 1][0]
         seq.append(parent)
         i -= 1
 
     seq.reverse()
 
     print(seq)
+    
+    for cell in weight_graph:
+        print(cell)
 
 viterbi()
