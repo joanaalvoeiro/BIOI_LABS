@@ -80,7 +80,7 @@ def forward(f_states, f_trans, f_emission, f_seq):
 
                 probabilities[state - 1][i] += emission_p * trans_p * source_p
     
-    total_p = np.sum(probabilities[:, len(f_states) - 1])
+    total_p = np.sum(probabilities[:, len(f_seq) - 1])
 
     print("Probability matrix for Forward algorithm (states x sequence):\n", probabilities)
     print('')
