@@ -28,12 +28,17 @@ def forward(f_states, f_trans, f_emission, f_seq):
     
     total_p = np.sum(probabilities[:, len(f_seq) - 1])
 
+    print('')
+    print("Probability matrix for Forward algorithm (states x sequence):\n", probabilities)
+    print('')
+    print("Probability of given sequence: ", total_p)
+
     return probabilities, total_p
 
 def backward(b_states, b_trans, b_emission, b_seq):
     probabilities = np.zeros((len(b_states), len(b_seq)))
 
-    for i in range(len(b_states)):#initialize first column
+    for i in range(len(b_states)):#initialize last column
         probabilities[i][len(b_seq) - 1] = 1 #not sure????
 
     for i in range(len(b_seq) - 2, -1, -1):#compute probabilities
@@ -44,19 +49,20 @@ def backward(b_states, b_trans, b_emission, b_seq):
                 emission_p = b_emission[s + 1][b_seq[i + 1]]
 
                 probabilities[state - 1][i] += emission_p * trans_p * source_p
-            print(probabilities)
     
     total_p = 0
 
     for i in range(len(b_states)):
         source_p = probabilities[i][0]
-        trans_p = 1 / len(b_seq)
+        trans_p = 1 / len(b_states)
         emission_p = b_emission[i + 1][b_seq[0]]
 
         total_p += trans_p * emission_p * source_p
 
-
-    print(total_p)
+    print('')
+    print("Probability matrix for Backward algorithm (states x sequence):\n", probabilities)
+    print('')
+    print("Probability of given sequence: ", total_p)
 
     return probabilities
 
@@ -64,12 +70,17 @@ def forward_backward(fb_states, fb_trans, fb_emission, fb_seq, fb_index):
     forward_m, px = forward(fb_states, fb_trans, fb_emission, fb_seq)
     backward_m = backward(fb_states, fb_trans, fb_emission, fb_seq)
 
-    fi = np.sum(forward_m[:, fb_index - 1])
-    bi = np.sum(backward_m[:, fb_index - 1])
-    
-    posterior_prob = (fi * bi)/px
+    print('')
+    posterior_probs = []
+    for s in range(len(fb_states)):
+        fi = forward_m[s][index - 1]
+        bi = backward_m[s][index - 1]
+        posterior_probs.append((fi * bi) / px)
+        print("P(Pi{} = {} | {}) = {}".format(fb_index, s + 1, fb_seq, posterior_probs[s]))
+
+    posterior_prob = max(posterior_probs)
 
     print('')
-    print("P(Pi{} = k | x) = {}".format(fb_index, posterior_prob))
+    print("Pi^{} = {}".format(fb_index, posterior_prob))
 
 forward_backward(states, trans, emission, S, index)
