@@ -67,4 +67,4 @@ P(Pi2 = 1 | catgcgggttataac) = 0.4048722624145479
 P(Pi2 = 2 | catgcgggttataac) = 0.11807879999650278
 P(Pi2 = 3 | catgcgggttataac) = 0.47704893758894934
 
-Pi^2 = 0.47704893758894934
+Pi^2 = 3

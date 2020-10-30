@@ -81,6 +81,6 @@ def forward_backward(fb_states, fb_trans, fb_emission, fb_seq, fb_index):
     posterior_prob = max(posterior_probs)
 
     print('')
-    print("Pi^{} = {}".format(fb_index, posterior_prob))
+    print("Pi^{} = {}".format(fb_index, posterior_probs.index(posterior_prob) + 1))
 
 forward_backward(states, trans, emission, S, index)
